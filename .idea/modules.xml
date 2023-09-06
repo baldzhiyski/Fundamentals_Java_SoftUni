@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associative Arrays/Associative Arrays.iml" filepath="$PROJECT_DIR$/Associative Arrays/Associative Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Syntax Fundamentals.iml" filepath="$PROJECT_DIR$/Basic Syntax Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitwiseOperations/BitwiseOperations.iml" filepath="$PROJECT_DIR$/BitwiseOperations/BitwiseOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Types and Variables/Data Types and Variables.iml" filepath="$PROJECT_DIR$/Data Types and Variables/Data Types and Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final Exam Prep/Final Exam Prep.iml" filepath="$PROJECT_DIR$/Final Exam Prep/Final Exam Prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mid Exam/Mid Exam.iml" filepath="$PROJECT_DIR$/Mid Exam/Mid Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectAndClasses/ObjectAndClasses.iml" filepath="$PROJECT_DIR$/ObjectAndClasses/ObjectAndClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects/Projects.iml" filepath="$PROJECT_DIR$/Projects/Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" filepath="$PROJECT_DIR$/RegularExpressions/RegularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task/Task.iml" filepath="$PROJECT_DIR$/Task/Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextProcessing/TextProcessing.iml" filepath="$PROJECT_DIR$/TextProcessing/TextProcessing.iml" />
+    </modules>
+  </component>
+</project>

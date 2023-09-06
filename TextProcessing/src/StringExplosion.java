@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class StringExplosion {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        String input = scan.nextLine();
+        StringBuilder textBuilder = new StringBuilder(input);
+        int totalStrength = 0;
+        for (int position = 0; position<= textBuilder.length()-1; position++) {
+            char currentSymbol = textBuilder.charAt(position);
+            if(currentSymbol=='>'){
+                int explosionStrength =Integer.parseInt(textBuilder.charAt(position+1) + "");
+                totalStrength+=explosionStrength;
+
+            }else if (currentSymbol!='>' && totalStrength>0){
+                textBuilder.deleteCharAt(position);
+                position--;
+                totalStrength--;
+
+            }
+        }
+        System.out.println(textBuilder);
+    }
+}
